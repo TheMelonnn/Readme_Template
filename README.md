@@ -35,7 +35,7 @@
 <h3 align="center">Legitima</h3>
 
   <p align="center">
-    Legalisir Ijazah dan Surat Keterangan
+    Legalisir Ijazah dan Surat Keterangan LLDIKTI Wilayah 5
     <br />
     <a href="https://github.com/arizaakmal/legitima"><strong>Kunjungi Kami»</strong></a>
     <br />
